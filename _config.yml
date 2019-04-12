@@ -1,0 +1,35 @@
+title: TonyChan's Gallery
+description: Photos By CoderTonyChan
+remote_theme: CoderTonyChan/tonydesign-jekyll
+google_analytics: UA-135626320-1
+background-image: https://sf6-tccdn-tos.pstatp.com/obj/tuchong-avatar/h_2301626_1
+
+# include: 
+#   enable: true
+#   html: "gallery.html"
+show_downloads: false
+images: 
+    - title: 日常
+      src: 'https://photo.tuchong.com/2301626/ft640/209322359.jpg'
+      w: 640
+      h: 480
+    - title: 新年
+      src: 'https://photo.tuchong.com/2301626/ft640/218693985.jpg'
+      w: 480
+      h: 639
+    - title: 漫展
+      src: 'https://photo.tuchong.com/2301626/ft640/559284591.jpg'
+      w: 621
+      h: 480
+    - title: 我们
+      src: 'http://photo.tuchong.com/2301626/ft640/360776076.jpg'
+      w: 639
+      h: 480
+    - title: 出生
+      src: 'https://photo.tuchong.com/2301626/ft640/407372210.jpg'
+      w: 505
+      h: 480
+    - title: 一日之计在于晨
+      src: 'https://photo.tuchong.com/2301626/ft640/72352121.jpg'
+      w: 480
+      h: 639
